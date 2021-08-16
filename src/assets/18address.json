@@ -1,0 +1,85 @@
+[{
+    "name": "安徽",
+    "value": 357,
+    "male": 219,
+    "female": 138
+},
+{
+    "name": "甘肃",
+    "value": 6,
+    "male": 4,
+    "female":2
+},
+{
+    "name": "广西",
+    "value": 1,
+    "male": 1,
+    "female": 0
+},
+{
+    "name": "贵州",
+    "value": 1,
+    "male": 0,
+    "female": 1
+},
+{
+    "name": "河北",
+    "value": 7,
+    "male": 4,
+    "female": 3
+},
+{
+    "name": "河南",
+    "value": 8,
+    "male": 3,
+    "female": 5
+},
+{
+    "name": "湖北",
+    "value": 3,
+    "male": 2,
+    "female": 1
+},
+{
+    "name": "江苏",
+    "value": 3,
+    "male": 2,
+    "female": 1
+},
+{
+    "name": "江西",
+    "value": 6,
+    "male": 4,
+    "female": 2
+},
+{
+    "name": "内蒙古",
+    "value": 2,
+    "male": 1,
+    "female": 1
+},
+{
+    "name": "宁夏",
+    "value": 1,
+    "male": 0,
+    "female": 1
+},
+{
+    "name": "山东",
+    "value": 10,
+    "male": 4,
+    "female": 6
+},
+{
+    "name": "山西",
+    "value": 8,
+    "male": 5,
+    "female": 3
+},
+{
+    "name": "新疆",
+    "value": 8,
+    "male": 4,
+    "female": 4
+}
+]
